@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9OAuth.Android", "W9OAuth\W9OAuth.Android\W9OAuth.Android.csproj", "{C0E93524-1EA1-4890-890F-11FB3DF0BC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W9OAuth", "W9OAuth\W9OAuth\W9OAuth.csproj", "{AA40FA33-CE49-44DF-AD03-0889D6392A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E93524-1EA1-4890-890F-11FB3DF0BC54}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA40FA33-CE49-44DF-AD03-0889D6392A45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3274A3E8-5C00-4867-BB6C-A3B2573E8E0C}
+	EndGlobalSection
+EndGlobal

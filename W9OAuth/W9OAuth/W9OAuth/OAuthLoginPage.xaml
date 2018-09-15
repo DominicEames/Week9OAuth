@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="W9OAuth.OAuthLoginPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightYellow">
+            <Label Text="Welcome Week 9 Lab"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Login Google OAuth" Clicked="OnLoginClicked"  BackgroundColor="LightGoldenrodYellow"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
